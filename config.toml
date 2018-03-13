@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Max Redmond"
 theme = "resume"
+publishDir = "docs"
 
 [params]
     firstName = "Max"
