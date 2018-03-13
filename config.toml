@@ -1,4 +1,4 @@
-baseURL = "https://athulus.github.io/resume-site/"
+baseURL = "https://athulus.github.io/resume-site/docs/"
 languageCode = "en-us"
 title = "Max Redmond"
 theme = "resume"

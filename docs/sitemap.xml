@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://athulus.github.io/resume-site/categories/</loc>
+    <loc>https://athulus.github.io/resume-site/docs/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://athulus.github.io/resume-site/</loc>
+    <loc>https://athulus.github.io/resume-site/docs/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://athulus.github.io/resume-site/tags/</loc>
+    <loc>https://athulus.github.io/resume-site/docs/tags/</loc>
     <priority>0</priority>
   </url>
   
