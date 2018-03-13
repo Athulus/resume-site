@@ -1,0 +1,14 @@
+[
+    {
+        "role":"Software Developer",
+        "company":"Capital One Bank",
+        "summary":"Creating APIs on the Amazon cloud using Golang and a Java spring based framework",
+        "range":"September 2015 - Present"
+    },
+    {
+        "role":"Data Analyst",
+        "company":"Capital One Bank",
+        "summary":"Created Automated Data Pipelines with analytical databases and Python",
+        "range":"July 2014 - September 2015"
+    }
+]
