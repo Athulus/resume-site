@@ -6,9 +6,28 @@
     <description>Recent content in Tags on Max Redmond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://maxredmond.info/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Docker</title>
+      <link>http://maxredmond.info/tags/docker/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxredmond.info/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rest Apis</title>
+      <link>http://maxredmond.info/tags/rest-apis/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxredmond.info/tags/rest-apis/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

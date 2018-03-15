@@ -11,13 +11,13 @@ publishDir = "docs"
     phone = "1-555-555-1234"
     contactNote = "Software Developer"
     profileImage = "img/profile.png"
-    email = "contact@maxredmond.info"
+    email = "mail@maxredmond.info"
     description = "Software Developer with experience in backend web developement, the pubic cloud, and embedded stuff"
     favicon = "images/favicon.ico"
     # what sections
     showSkills = true
     showProjects = true
-    showOpenSource = true
+    showOpenSource = false
     showPublications = false
     showExperience = true
     showEducation = true
