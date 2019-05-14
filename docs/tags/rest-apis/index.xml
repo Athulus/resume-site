@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rest Apis on Max Redmond</title>
+    <title>REST APIs on Max Redmond</title>
     <link>http://maxredmond.info/tags/rest-apis/</link>
-    <description>Recent content in Rest Apis on Max Redmond</description>
+    <description>Recent content in REST APIs on Max Redmond</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://maxredmond.info/tags/rest-apis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Access System for HackRVA</title>
+      <link>http://maxredmond.info/projects/hackrfid/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://maxredmond.info/projects/hackrfid/</guid>
+      <description>This project includes electronic and hardware designs for RFID scanners, a web server, and database to handle requests from the reader and manage the users that need access.</description>
+    </item>
     
     <item>
       <title>tool scheduling calendar</title>

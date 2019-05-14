@@ -1,9 +1,15 @@
 [
     {
         "role":"Software Developer",
+        "company":"Tridium",
+        "summary":"Developing a powerful Java based software framework to control the commercial and industrial internet of things",
+        "range":"May 2018 - Present"
+    },
+    {
+        "role":"Software Developer",
         "company":"Capital One Bank",
         "summary":"Creating APIs on the Amazon cloud using Golang and a Java spring based framework",
-        "range":"September 2015 - Present"
+        "range":"September 2015 - May 2018"
     },
     {
         "role":"Data Analyst",

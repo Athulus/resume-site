@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Architecture",
-      "skills":[ "Microservices","RESTful APIs","SaaS/PaaS/IaaS"]
+      "skills":[ "Microservices","RESTful APIs","SaaS/PaaS/IaaS", "Serverless"]
   },{
       "grouping":"Languages, Operating Systems & Tools",
       "skills":[ "Java","Python", "Go", "C/C++","git","linux","bash"]
